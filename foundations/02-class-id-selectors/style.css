@@ -1,0 +1,19 @@
+#example_second {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.odd_examples, .third_example {
+    background-color: rgb(196, 127, 163);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.third_example {
+    font-size: 24px;
+}
+
+#fourth_example {
+    background-color: rgb(138, 203, 138);
+    font-size: 24px;
+    font-weight: bold;
+}
