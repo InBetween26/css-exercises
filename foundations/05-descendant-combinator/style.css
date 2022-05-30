@@ -1,0 +1,25 @@
+/* This is ancestry using both classes that are in the <div> element */
+div .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.text {
+    background-color: green;
+}
+
+/* This is ancestry using a type and a class..both methods will work 
+div .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} 
+
+Other possible combinations:
+div p
+.container p
+
+*/
